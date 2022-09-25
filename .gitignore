@@ -1,0 +1,8 @@
+#for .exe files
+*.exe
+
+#for .vscode folder
+*.vscode
+
+#for temprunner file
+*tempCodeRunnerFile
