@@ -7,6 +7,6 @@ int main(){
     while(t--){
         cin >> n >> k;
         cout << (n/k)*(n/k) << endl;
-       
+    }   
     return 0;
 }
