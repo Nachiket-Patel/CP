@@ -38,3 +38,9 @@
 *.tempCodeRunnerFile.cpp
 *.tempCodeRunnerFile
 tempCodeRunnerFile.cpp
+
+#Ubuntu
+*
+!*.c
+!*.cpp
+!Makefile
