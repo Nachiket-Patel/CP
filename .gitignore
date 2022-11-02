@@ -40,7 +40,10 @@
 tempCodeRunnerFile.cpp
 
 #Ubuntu
-*
-!*.c
 !*.cpp
-!Makefile
+
+
+
+
+
+
