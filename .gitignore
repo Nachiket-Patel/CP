@@ -31,9 +31,6 @@
 *.out
 *.app
 
-#ubuntu
-*
-
 #vscode
 *.vscode
 
