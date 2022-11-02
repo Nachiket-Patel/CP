@@ -34,6 +34,6 @@
 #vscode
 *.vscode
 
-#tempRunnerFile
-*.tempRunnerFile.cpp
-*.tempRunnerFile
+#tempCodeRunnerFile
+*.tempCodeRunnerFile.cpp
+*.tempCodeRunnerFile
