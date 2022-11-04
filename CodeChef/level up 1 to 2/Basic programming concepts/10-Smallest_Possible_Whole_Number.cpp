@@ -7,16 +7,10 @@ int main(){
     while(t--){
         int n,k;
         cin >> n >> k;
-        if(n<k){
-            cout << n << endl;
-        }
-        else if(n==k){
-            cout << n-k << endl;
+        if(k!=0){
+            cout << n%k << endl;
         }
         else{
-            while(n>k){
-                n -= k;
-            }
             cout << n << endl;
         }
     }
