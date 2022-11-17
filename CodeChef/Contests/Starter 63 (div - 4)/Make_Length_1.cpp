@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    // int t;
-    // cin >> t;
-    // while(t--){
+    int t;
+    cin >> t;
+    while(t--){
         int n;
         cin >> n;
         string s,a;
@@ -23,6 +23,6 @@ int main(){
             cout << endl;
             n--;
         }
-    //}
+    }
     return 0;
 }
