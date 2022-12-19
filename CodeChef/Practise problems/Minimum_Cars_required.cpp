@@ -14,5 +14,5 @@ int main(){
             cout << n/4 << endl;
         }
     }
-    return 0
+    return 0;
 }
