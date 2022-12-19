@@ -9,4 +9,5 @@ int main(){
         cin >> n;
         cout << n/2 << endl;
      }
+     return 0;
 }
